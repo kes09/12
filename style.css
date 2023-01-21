@@ -7,9 +7,13 @@
 
 
 body{
-  background-color: rgb(41, 243, 68)
+  background-color: rgb(54, 55, 126)
 }
-
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color: wheat;
+}
 
 .form {
   border: 5px solid black;
@@ -21,7 +25,7 @@ body{
   text-transform: uppercase;
   padding: 20px;
   font-size: 30px;
-  background-color: rgb(247, 148, 19);
+  background-color: rgb(93, 138, 196);
 }
 .form-wraper {
   display: flex;
